@@ -25,6 +25,6 @@ CSS son las siglas de Cascading Style Sheets - Hojas de Estilo en Cascada - que 
 * [Algunas propiedades de CSS](/Talleres/HTML/page6.md)
 * [Id y Class](/Talleres/HTML/page7.md)
 * [Position](/Talleres/HTML/page8.md)
-* [Ejercicio e introduccion a HTML5](/Talleres/HTML/page8.md)
+* [Ejercicio e introduccion a HTML5](/Talleres/HTML/page9.md)
 
 ## [Siguiente](page1.md)
