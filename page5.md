@@ -1,6 +1,7 @@
 #Empezando con CSS
 
 Para poder empezar a trabajar con css en nuestra página web, debemos colocar las siguientes etiquetas en la sección del head.
+
 `<head>`
 `<style type="text/css">`
 
@@ -17,4 +18,4 @@ Cabe destacar que en este caso, si tenemos mas de una etiqueta h1, todas se esta
 Nota: Podemos escribir los colores en formato hexadecimal para referirnos a un tono de color exacto.
 [Colores en formato hexadecimal](https://www.google.com.mx/?gfe_rd=cr&ei=a9t-WLmwJsXI8Aevy52wCQ#q=%23ffff00)
 
-## [Anterior](page4.md)  --  [Siguiente](page5.md)
+## [Anterior](page4.md)  --  [Siguiente](page6.md)
