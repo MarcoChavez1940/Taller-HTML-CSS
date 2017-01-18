@@ -4,7 +4,9 @@ Ahora veremos otra propiedad de CSS llamada position:
 Utilizaremos los siguiente div como ejemplo
 
 `<div id="primero">mi primer paragrafo</div>`
+
 `<div id="segundo">mi segundo paragrafo</div>`
+
 `<div id="tercero">mi tercer paragrafo</div>`
 
 ##absolute

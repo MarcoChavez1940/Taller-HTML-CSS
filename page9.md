@@ -4,11 +4,17 @@ En HTML5 surgen nuevas etiquetas muy útiles a la hora de desarrollar paginas we
 Entre las principales etiquetas están:
 
 *`<header>` Se utiliza para marcar encabezados
+
 *`<nav>` Se utiliza para marcar la barra de navegación
+
 *`<aside>` Se utiliza para marcar la información lateral
+
 *`<section>` Se utiliza para marcar la información central
+
 *`<article>` Se utiliza para marcar una información especifica
+
 *`<hgroup>` Se utiliza para agrupar las h1,h2, etc para su mejor manipulación
+
 *`<footer>` Se utiliza para marcar los pie de pagina.
 ***
 Igual cabe destacar que en nuestro documento, antes de las etiquetas `<html>` hay que colocar la siguiente etiqueta:

@@ -17,6 +17,7 @@ Podemos usar la siguiente etiqueta para los encabezados de las columnas
 `<th>Encabezado</th>`
 
 Una propiedad que tiene la etiqueta `<th>` es "colspan", esta sirve para unir varias celdas de la tabla
+
 `<th colspan="2">Encabezado</th>`
 ***
 ##Propiedades Cellpadding y Cellspacing

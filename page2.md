@@ -35,6 +35,7 @@ Igualmente podemos combinar las etiquetas
 `<a href="http://www.google.com"> <img src= "imagen.jpg"/> </a>`
 
 Tambien podemos darle propiedades de tamaño a nuestra imagen.
+
 `<a href="http://www.google.com"> <img width="50px" height="100px" src= "imagen.jpg"/> </a>`
 
 ## [Anterior](page1.md)  --  [Siguiente](page3.md)

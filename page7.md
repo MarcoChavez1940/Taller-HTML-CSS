@@ -5,7 +5,9 @@ Pero a veces no deseamos que esto suceda, por eso utilizamos los identificadores
 A continuación se muestra un ejemplo:
 ***
 `<p class="primero">mi primer paragrafo</p>`
+
 `<p class="segundo">mi segundo paragrafo</p>`
+
 `<p class="tercero">mi tercer paragrafo</p>`
 
 En el css se hará referencia a estas clases con un punto seguido del nombre de la clase:
@@ -30,7 +32,9 @@ A continuación se presenta una nueva etiqueta de html: `<div>`,
 esta representa una "división", para el `<div>` es preferible usar el id.
 
 `<div id="primero">mi primer paragrafo</div>`
+
 `<div id="segundo">mi segundo paragrafo</div>`
+
 `<div id="tercero">mi tercer paragrafo</div>`
 
 En el css se hará referencia a estas clases con un # seguido del nombre del identificador:
