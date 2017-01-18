@@ -26,8 +26,11 @@ Primero abrimos las etiquetas `<html>`, dentro de ellas ira toda la información
 La información para el navegador va dentro de las etiquetas `<head>`, podemos colocar en ellas algunos atributos como los siguientes atributos:
 
 *`<meta charset="utf-8">`
+
 *`<meta name="description" content="Este es un ejemplo de html">`
+
 *`<meta name="keyworks" content="HTML, CSS">`
+
 *`<title>Este es el titulo del documento</title>`
 
 ## [Anterior](Inicio.md)  --  [Siguiente](page2.md)
