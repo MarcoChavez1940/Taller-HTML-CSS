@@ -18,13 +18,13 @@ CSS son las siglas de Cascading Style Sheets - Hojas de Estilo en Cascada - que 
 
 ## Temas  
 * [Primer código HTML](/page1.md)
-* [Etiquetas utilizadas en el body](/Taller-HTML-CSS/page2.md)
-* [Tablas](/Taller-HTML-CSS/page3.md)
-* [Listas](/Taller-HTML-CSS/page4.md)
-* [Empezando con CSS](/Taller-HTML-CSS/page5.md)
-* [Algunas propiedades de CSS](/Taller-HTML-CSS/page6.md)
-* [Id y Class](/Taller-HTML-CSS/page7.md)
-* [Position](/Taller-HTML-CSS/page8.md)
-* [Ejercicio e introduccion a HTML5](/Taller-HTML-CSS/page9.md)
+* [Etiquetas utilizadas en el body](/page2.md)
+* [Tablas](/page3.md)
+* [Listas](/page4.md)
+* [Empezando con CSS](/page5.md)
+* [Algunas propiedades de CSS](/page6.md)
+* [Id y Class](/page7.md)
+* [Position](/page8.md)
+* [Ejercicio e introduccion a HTML5](/page9.md)
 
 ## [Siguiente](page1.md)
