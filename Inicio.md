@@ -17,14 +17,14 @@ CSS son las siglas de Cascading Style Sheets - Hojas de Estilo en Cascada - que 
 ***
 
 ## Temas  
-* [Primer código HTML](/Talleres/HTML/page1.md)
-* [Etiquetas utilizadas en el body](/Talleres/HTML/page2.md)
-* [Tablas](/Talleres/HTML/page3.md)
-* [Listas](/Talleres/HTML/page4.md)
-* [Empezando con CSS](/Talleres/HTML/page5.md)
-* [Algunas propiedades de CSS](/Talleres/HTML/page6.md)
-* [Id y Class](/Talleres/HTML/page7.md)
-* [Position](/Talleres/HTML/page8.md)
-* [Ejercicio e introduccion a HTML5](/Talleres/HTML/page9.md)
+* [Primer código HTML](/Taller-HTML-CSS/page1.md)
+* [Etiquetas utilizadas en el body](/Taller-HTML-CSS/page2.md)
+* [Tablas](/Taller-HTML-CSS/page3.md)
+* [Listas](/Taller-HTML-CSS/page4.md)
+* [Empezando con CSS](/Taller-HTML-CSS/page5.md)
+* [Algunas propiedades de CSS](/Taller-HTML-CSS/page6.md)
+* [Id y Class](/Taller-HTML-CSS/page7.md)
+* [Position](/Taller-HTML-CSS/page8.md)
+* [Ejercicio e introduccion a HTML5](/Taller-HTML-CSS/page9.md)
 
 ## [Siguiente](page1.md)
