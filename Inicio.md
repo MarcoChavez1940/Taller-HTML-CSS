@@ -17,7 +17,7 @@ CSS son las siglas de Cascading Style Sheets - Hojas de Estilo en Cascada - que 
 ***
 
 ## Temas  
-* [Primer código HTML](/Taller-HTML-CSS/page1.md)
+* [Primer código HTML](/page1.md)
 * [Etiquetas utilizadas en el body](/Taller-HTML-CSS/page2.md)
 * [Tablas](/Taller-HTML-CSS/page3.md)
 * [Listas](/Taller-HTML-CSS/page4.md)
